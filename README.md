@@ -10,6 +10,6 @@ Sou um estudante de Programação Front-End Developer
 
 💻   Minha stack: HTML, CSS e JavaScript 
 
-📘   Estudando: ReactJS, Node.js, React Native &amp; Typescript 
+📘   Estudando: ReactJS
 
 💬   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras e inovadoras, jogar e oque não pode faltar é uma das minha maiores paixões que é programar. 📧   Entre em contato comigo: mbs.porfirio@gmail.com
